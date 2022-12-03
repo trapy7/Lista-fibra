@@ -1,304 +1,142 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/"
+#EXTM3U url-tvg="http://m3u4u.com/epg/4z2xnjwwr9tdwm8ryv15"
+#EXTINF:-1 tvg-id="MEGA(src01).es" tvg-name="Mega HD" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",Mega HD
+http://185.53.88.85:8008/a/willene/live/3909887213.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="0 (6)" tvg-logo="https://vavoo.to/live2/logo/4070861500.png" group-title="Spain",0 (6)
-http://185.53.88.67:8008/a/willene/live/4070861500.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="GOLPLAY(src01).es" tvg-name="Golplay HD" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",Golplay HD
+http://89.36.94.102:8008/a/willene/live/1196142000.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="0 HD (3)" tvg-logo="" group-title="Spain",0 HD (3)
-http://185.53.88.85:8008/a/willene/live/1046609483.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="GOLPLAY(src01).es" tvg-name="GolPlay HD (Opción 2)" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",GolPlay HD (Opción 2)
+http://45.129.133.4:8008/a/willene/live/1222866273.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A&E (3)" tvg-logo="https://vavoo.to/live2/logo/2318802903.png" group-title="Spain",A&E (3)
-http://45.129.133.5:8008/a/willene/live/2318802903.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A3 CINE (6)" tvg-logo="https://vavoo.to/live2/logo/2758410022.png" group-title="Spain",A3 CINE (6)
-http://45.129.133.4:8008/a/willene/live/2758410022.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A3 SERIES HD (1)" tvg-logo="" group-title="Spain",A3 SERIES HD (1)
-http://45.129.133.5:8008/a/willene/live/401201145.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ACTIVA TV (6)" tvg-logo="" group-title="Spain",ACTIVA TV (6)
-http://89.36.94.102:8008/a/willene/live/3356388393.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFV ESPANOL (6)" tvg-logo="https://vavoo.to/live2/logo/3189194645.png" group-title="Spain",AFV ESPANOL (6)
-http://45.129.133.4:8008/a/willene/live/3189194645.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC (3)" tvg-logo="" group-title="Spain",AMC (3)
-http://185.53.88.67:8008/a/willene/live/1732580846.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANTENA 3 (6)" tvg-logo="https://vavoo.to/live2/logo/1723169343.png" group-title="Spain",ANTENA 3 (6)
-http://185.53.88.85:8008/a/willene/live/1723169343.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATRESERIES (6)" tvg-logo="https://vavoo.to/live2/logo/2286339534.png" group-title="Spain",ATRESERIES (6)
-http://185.53.88.67:8008/a/willene/live/2286339534.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN HD (3)" tvg-logo="" group-title="Spain",AXN HD (3)
-http://185.53.88.67:8008/a/willene/live/2934305584.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN WHITE HD (3)" tvg-logo="" group-title="Spain",AXN WHITE HD (3)
-http://45.129.133.4:8008/a/willene/live/1458724004.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BABY TV (1)" tvg-logo="" group-title="Spain",BABY TV (1)
-http://45.129.133.4:8008/a/willene/live/1417061829.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BARCA TV (6)" tvg-logo="" group-title="Spain",BARCA TV (6)
-http://185.53.88.67:8008/a/willene/live/3377969107.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BE MAD (6)" tvg-logo="https://vavoo.to/live2/logo/1923202823.png" group-title="Spain",BE MAD (6)
-http://185.53.88.67:8008/a/willene/live/1923202823.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN LA LIGA (3)" tvg-logo="" group-title="Spain",BEIN LA LIGA (3)
-http://45.129.133.5:8008/a/willene/live/818585431.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN LA LIGA FHD (3)" tvg-logo="https://vavoo.to/live2/logo/1835410654.jpeg" group-title="Spain",BEIN LA LIGA FHD (3)
-http://89.36.94.102:8008/a/willene/live/1835410654.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN LIGA HD (3)" tvg-logo="" group-title="Spain",BEIN LIGA HD (3)
-http://89.36.94.102:8008/a/willene/live/2810319500.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS FHD (3)" tvg-logo="https://vavoo.to/live2/logo/2381963721.png" group-title="Spain",BEIN SPORTS FHD (3)
-http://185.53.88.85:8008/a/willene/live/2381963721.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS FHD (BACKUP) (3)" tvg-logo="" group-title="Spain",BEIN SPORTS FHD (BACKUP) (3)
-http://89.36.94.102:8008/a/willene/live/296489512.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS HD (3)" tvg-logo="https://vavoo.to/live2/logo/4018127725.jpeg" group-title="Spain",BEIN SPORTS HD (3)
-http://45.129.133.4:8008/a/willene/live/4018127725.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS LA LIGA (1)" tvg-logo="" group-title="Spain",BEIN SPORTS LA LIGA (1)
-http://45.129.133.4:8008/a/willene/live/32485662.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS N (1)" tvg-logo="https://vavoo.to/live2/logo/2680744925.png" group-title="Spain",BEIN SPORTS N (1)
-http://185.53.88.85:8008/a/willene/live/2680744925.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS XTRA EN ESPANOL (6)" tvg-logo="" group-title="Spain",BEIN SPORTS XTRA EN ESPANOL (6)
-http://185.53.88.67:8008/a/willene/live/4185265750.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BLAZE (1)" tvg-logo="" group-title="Spain",BLAZE (1)
-http://185.53.88.85:8008/a/willene/live/328666171.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOING (1)" tvg-logo="https://vavoo.to/live2/logo/1282430546.jpeg" group-title="Spain",BOING (1)
-http://45.129.133.5:8008/a/willene/live/1282430546.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOM CINE (6)" tvg-logo="" group-title="Spain",BOM CINE (6)
-http://45.129.133.4:8008/a/willene/live/4050401589.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CALLE 13 FHD (3)" tvg-logo="" group-title="Spain",CALLE 13 FHD (3)
-http://45.129.133.4:8008/a/willene/live/832613616.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL DE LAS ESTRELLAS (3)" tvg-logo="https://vavoo.to/live2/logo/2481128101.png" group-title="Spain",CANAL DE LAS ESTRELLAS (3)
-http://89.36.94.102:8008/a/willene/live/2481128101.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vamos" tvg-logo="https://vavoo.to/live2/logo/801850225.png" group-title="Spain",Vamos
-http://185.53.88.85:8008/a/willene/live/801850225.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL DEPORTES HD (3)" tvg-logo="" group-title="Spain",CANAL DEPORTES HD (3)
-http://185.53.88.67:8008/a/willene/live/3832379836.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL HOLLYWOOD (6)" tvg-logo="https://vavoo.to/live2/logo/348726934.png" group-title="Spain",CANAL HOLLYWOOD (6)
-http://89.36.94.102:8008/a/willene/live/348726934.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL LIGA HD (3) campeones" tvg-logo="" group-title="Spain",CANAL LIGA HD (3) campeones
-http://45.129.133.5:8008/a/willene/live/2500627571.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL SERIES HD (3) Series 2" tvg-logo="https://vavoo.to/live2/logo/4274032095.png" group-title="Spain",CANAL SERIES HD (3) Series 2
-http://45.129.133.4:8008/a/willene/live/4274032095.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL SERIES XTRA HD (3) Series" tvg-logo="" group-title="Spain",CANAL SERIES XTRA HD (3) Series
-http://185.53.88.85:8008/a/willene/live/1238753279.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CLAN (1)" tvg-logo="https://vavoo.to/live2/logo/666061580.jpeg" group-title="Spain",CLAN (1)
-http://185.53.88.67:8008/a/willene/live/666061580.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COMEDY CENTRAL HD (3)" tvg-logo="" group-title="Spain",COMEDY CENTRAL HD (3)
-http://185.53.88.85:8008/a/willene/live/2931256114.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COSMO HD (3)" tvg-logo="https://vavoo.to/live2/logo/2521764797.png" group-title="Spain",COSMO HD (3)
-http://185.53.88.67:8008/a/willene/live/2521764797.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CRIMEN INVESTIGATION (3)" tvg-logo="https://vavoo.to/live2/logo/3773061405.png" group-title="Spain",CRIMEN INVESTIGATION (3)
-http://185.53.88.67:8008/a/willene/live/3773061405.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CUATRO HD (3)" tvg-logo="https://vavoo.to/live2/logo/2088746902.png" group-title="Spain",CUATRO HD (3)
-http://185.53.88.67:8008/a/willene/live/2088746902.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY CHANNEL FHD (3)" tvg-logo="" group-title="Spain",DISNEY CHANNEL FHD (3)
-http://45.129.133.5:8008/a/willene/live/2192688520.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY JUNIOR (1)" tvg-logo="https://vavoo.to/live2/logo/1263874425.jpeg" group-title="Spain",DISNEY JUNIOR (1)
-http://89.36.94.102:8008/a/willene/live/1263874425.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIVINITY (1)" tvg-logo="" group-title="Spain",DIVINITY (1)
-http://89.36.94.102:8008/a/willene/live/2192266310.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DKISS (3)" tvg-logo="" group-title="Spain",DKISS (3)
-http://185.53.88.85:8008/a/willene/live/846372126.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DMAX (3) break" tvg-logo="https://vavoo.to/live2/logo/2114283343.png" group-title="Spain",DMAX (3) break
-http://185.53.88.67:8008/a/willene/live/2114283343.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DMAX (6)" tvg-logo="https://vavoo.to/live2/logo/920014450.png" group-title="Spain",DMAX (6)
-http://45.129.133.5:8008/a/willene/live/920014450.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ENERGY (1)" tvg-logo="https://vavoo.to/live2/logo/3077927255.jpeg" group-title="Spain",ENERGY (1)
-http://185.53.88.67:8008/a/willene/live/3077927255.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FDF (3)" tvg-logo="" group-title="Spain",FDF (3)
-http://45.129.133.5:8008/a/willene/live/1292760536.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX FHD (3)" tvg-logo="" group-title="Spain",FOX FHD (3)
-http://45.129.133.5:8008/a/willene/live/2884756057.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX LIFE (6)" tvg-logo="" group-title="Spain",FOX LIFE (6)
-http://45.129.133.5:8008/a/willene/live/111073319.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOL TV (3)" tvg-logo="" group-title="Spain",GOL TV (3)
-http://185.53.88.85:8008/a/willene/live/1196142000.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOL TV HD (1)" tvg-logo="https://vavoo.to/live2/logo/1222866273.png" group-title="Spain",GOL TV HD (1)
-http://45.129.133.4:8008/a/willene/live/1222866273.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HOLLYWOOD HD (3)" tvg-logo="https://vavoo.to/live2/logo/450046529.png" group-title="Spain",HOLLYWOOD HD (3)
-http://185.53.88.85:8008/a/willene/live/450046529.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA 1 HD (1)" tvg-logo="https://vavoo.to/live2/logo/430938861.jpeg" group-title="Spain",LA 1 HD (1)
-http://185.53.88.67:8008/a/willene/live/430938861.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA LIGA BAR HD (3)" tvg-logo="https://vavoo.to/live2/logo/3323018723.jpeg" group-title="Spain",LA LIGA BAR HD (3)
-http://185.53.88.85:8008/a/willene/live/3323018723.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA LIGA TV BAR FHD (3)" tvg-logo="https://vavoo.to/live2/logo/2811938843.jpeg" group-title="Spain",LA LIGA TV BAR FHD (3)
-http://45.129.133.4:8008/a/willene/live/2811938843.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA LIGA TV BAR HD (1)" tvg-logo="https://vavoo.to/live2/logo/3134290264.png" group-title="Spain",LA LIGA TV BAR HD (1)
-http://89.36.94.102:8008/a/willene/live/3134290264.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA LIGA TV HD (1)" tvg-logo="" group-title="Spain",LA LIGA TV HD (1)
-http://185.53.88.67:8008/a/willene/live/1421585145.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA SEXTA HD (3)" tvg-logo="https://vavoo.to/live2/logo/1944298755.png" group-title="Spain",LA SEXTA HD (3)
-http://185.53.88.67:8008/a/willene/live/1944298755.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LALIGA 123 FHD (3)" tvg-logo="https://vavoo.to/live2/logo/4060868079.png" group-title="Spain",LALIGA 123 FHD (3)
-http://185.53.88.67:8008/a/willene/live/4060868079.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LALIGA TV BAR (1)" tvg-logo="https://vavoo.to/live2/logo/1019163502.jpeg" group-title="Spain",LALIGA TV BAR (1)
-http://185.53.88.67:8008/a/willene/live/1019163502.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LALIGA TV BAR (6)" tvg-logo="https://vavoo.to/live2/logo/734695029.png" group-title="Spain",LALIGA TV BAR (6)
-http://185.53.88.67:8008/a/willene/live/734695029.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA CAMPEONES 2 FHD (3)" tvg-logo="https://vavoo.to/live2/logo/3672247790.png" group-title="Spain",LIGA CAMPEONES 2 FHD (3)
-http://45.129.133.5:8008/a/willene/live/3672247790.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA CAMPEONES HD (1)" tvg-logo="https://vavoo.to/live2/logo/4215248680.jpeg" group-title="Spain",LIGA CAMPEONES HD (1)
-http://185.53.88.67:8008/a/willene/live/4215248680.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA DE CAMPEONES (3)" tvg-logo="https://vavoo.to/live2/logo/456309731.png" group-title="Spain",LIGA DE CAMPEONES (3)
-http://45.129.133.4:8008/a/willene/live/456309731.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA DE CAMPEONES 1 FHD (3)" tvg-logo="" group-title="Spain",LIGA DE CAMPEONES 1 FHD (3)
-http://45.129.133.5:8008/a/willene/live/3979362413.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA DE CAMPEONES 2 (3)" tvg-logo="" group-title="Spain",LIGA DE CAMPEONES 2 (3)
-http://185.53.88.67:8008/a/willene/live/3084788703.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA TV (1)" tvg-logo="https://vavoo.to/live2/logo/4028539366.jpeg" group-title="Spain",LIGA TV (1)
-http://45.129.133.4:8008/a/willene/live/4028539366.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA TV BAR 3 HD (1)" tvg-logo="https://vavoo.to/live2/logo/3282756403.jpeg" group-title="Spain",LIGA TV BAR 3 HD (1)
-http://45.129.133.5:8008/a/willene/live/3282756403.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA TV BAR 4 HD (1)" tvg-logo="https://vavoo.to/live2/logo/3379554858.jpeg" group-title="Spain",LIGA TV BAR 4 HD (1)
-http://45.129.133.5:8008/a/willene/live/3379554858.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M COMEDIA HD (3)" tvg-logo="" group-title="Spain",M COMEDIA HD (3)
-http://185.53.88.85:8008/a/willene/live/2818346625.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M. FORMULA 1 FHD (3)" tvg-logo="https://vavoo.to/live2/logo/3281372264.jpeg" group-title="Spain",M. FORMULA 1 FHD (3)
-http://185.53.88.67:8008/a/willene/live/3281372264.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M.ACCION HD (1)" tvg-logo="https://vavoo.to/live2/logo/3450126023.jpeg" group-title="Spain",M.ACCION HD (1)
-http://45.129.133.4:8008/a/willene/live/3450126023.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M.DEPORTES HD (1)" tvg-logo="https://vavoo.to/live2/logo/215044469.jpeg" group-title="Spain",M.DEPORTES HD (1)
-http://89.36.94.102:8008/a/willene/live/215044469.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M.ESTRENOS HD (1)" tvg-logo="https://vavoo.to/live2/logo/1530605876.jpeg" group-title="Spain",M.ESTRENOS HD (1)
-http://45.129.133.4:8008/a/willene/live/1530605876.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M.FORMULA 1 HD (1)" tvg-logo="https://vavoo.to/live2/logo/910594931.jpeg" group-title="Spain",M.FORMULA 1 HD (1)
-http://185.53.88.67:8008/a/willene/live/910594931.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M.GOLF HD (1)" tvg-logo="https://vavoo.to/live2/logo/2837789403.jpeg" group-title="Spain",M.GOLF HD (1)
-http://45.129.133.4:8008/a/willene/live/2837789403.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M.LIGA DE CAMPEONES HD (1)" tvg-logo="https://vavoo.to/live2/logo/3566202896.jpeg" group-title="Spain",M.LIGA DE CAMPEONES HD (1)
-http://185.53.88.67:8008/a/willene/live/3566202896.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MEGA TV (3) CONTINUAR DESDE AQUI" tvg-logo="https://vavoo.to/live2/logo/1989715852.png" group-title="Spain",MEGA TV (3) CONTINUAR DESDE AQUI
-http://185.53.88.67:8008/a/willene/live/1989715852.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR ACCI©N HD (1)" tvg-logo="https://vavoo.to/live2/logo/927664097.jpeg" group-title="Spain",MOVISTAR ACCI©N HD (1)
-http://185.53.88.85:8008/a/willene/live/927664097.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR COMEDIA HD (1)" tvg-logo="" group-title="Spain",MOVISTAR COMEDIA HD (1)
-http://185.53.88.85:8008/a/willene/live/2813972847.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR DEPORTE 1 HD (1)" tvg-logo="" group-title="Spain",MOVISTAR DEPORTE 1 HD (1)
-http://89.36.94.102:8008/a/willene/live/3039747729.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR DEPORTES (1)" tvg-logo="https://vavoo.to/live2/logo/4203067643.png" group-title="Spain",MOVISTAR DEPORTES (1)
-http://185.53.88.67:8008/a/willene/live/4203067643.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR DRAMA HD (1)" tvg-logo="https://vavoo.to/live2/logo/530526559.jpeg" group-title="Spain",MOVISTAR DRAMA HD (1)
-http://45.129.133.4:8008/a/willene/live/530526559.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR ESTRENOS HD (1)" tvg-logo="" group-title="Spain",MOVISTAR ESTRENOS HD (1)
-http://45.129.133.4:8008/a/willene/live/1452003694.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR F1 HD (1)" tvg-logo="https://vavoo.to/live2/logo/1250362936.png" group-title="Spain",MOVISTAR F1 HD (1)
-http://89.36.94.102:8008/a/willene/live/1250362936.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR GOLF HD (1)" tvg-logo="https://vavoo.to/live2/logo/2481123649.png" group-title="Spain",MOVISTAR GOLF HD (1)
-http://185.53.88.67:8008/a/willene/live/2481123649.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LA LIGA (BACKUP) (1)" tvg-logo="https://vavoo.to/live2/logo/3720690828.jpeg" group-title="Spain",MOVISTAR LA LIGA (BACKUP) (1)
-http://45.129.133.5:8008/a/willene/live/3720690828.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LA LIGA 1 (1)" tvg-logo="https://vavoo.to/live2/logo/1521876812.png" group-title="Spain",MOVISTAR LA LIGA 1 (1)
-http://45.129.133.4:8008/a/willene/live/1521876812.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LA LIGA 2 (1)" tvg-logo="https://vavoo.to/live2/logo/487949724.png" group-title="Spain",MOVISTAR LA LIGA 2 (1)
-http://45.129.133.5:8008/a/willene/live/487949724.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LA LIGA 3 (1)" tvg-logo="https://vavoo.to/live2/logo/544582700.png" group-title="Spain",MOVISTAR LA LIGA 3 (1)
-http://185.53.88.67:8008/a/willene/live/544582700.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LIGA DE CAMPEONES (1)" tvg-logo="https://vavoo.to/live2/logo/1428489230.png" group-title="Spain",MOVISTAR LIGA DE CAMPEONES (1)
-http://45.129.133.4:8008/a/willene/live/1428489230.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LIGA DE CAMPEONES 1 HD (ONLY EVENT) (1)" tvg-logo="https://vavoo.to/live2/logo/3206065766.png" group-title="Spain",MOVISTAR LIGA DE CAMPEONES 1 HD (ONLY EVENT) (1)
-http://89.36.94.102:8008/a/willene/live/3206065766.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LIGA DE CAMPEONES 2 HD (ONLY EVENT) (1)" tvg-logo="https://vavoo.to/live2/logo/3288738949.png" group-title="Spain",MOVISTAR LIGA DE CAMPEONES 2 HD (ONLY EVENT) (1)
-http://185.53.88.85:8008/a/willene/live/3288738949.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LIGA DE CAMPEONES 3 HD (ONLY EVENT) (1)" tvg-logo="https://vavoo.to/live2/logo/1541189403.png" group-title="Spain",MOVISTAR LIGA DE CAMPEONES 3 HD (ONLY EVENT) (1)
-http://185.53.88.67:8008/a/willene/live/1541189403.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR SERIES HD (1)" tvg-logo="" group-title="Spain",MOVISTAR SERIES HD (1)
-http://89.36.94.102:8008/a/willene/live/1815281334.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR SERIESMANIA HD (1)" tvg-logo="https://vavoo.to/live2/logo/2310841113.jpeg" group-title="Spain",MOVISTAR SERIESMANIA HD (1)
-http://45.129.133.5:8008/a/willene/live/2310841113.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NEOX (1)" tvg-logo="https://vavoo.to/live2/logo/4236515420.jpeg" group-title="Spain",NEOX (1)
-http://185.53.88.67:8008/a/willene/live/4236515420.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NEOX (3)" tvg-logo="" group-title="Spain",NEOX (3)
-http://45.129.133.5:8008/a/willene/live/3860878480.ts
-#EXTINF:-1 tvg-id="Neox.es" tvg-name="NEOX (6)" tvg-logo="https://vavoo.to/live2/logo/2935193005.png" group-title="Spain",NEOX (6)
-http://45.129.133.5:8008/a/willene/live/2935193005.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICK JR (1)" tvg-logo="https://vavoo.to/live2/logo/2818740424.jpeg" group-title="Spain",NICK JR (1)
-http://185.53.88.67:8008/a/willene/live/2818740424.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICK JR (3)" tvg-logo="" group-title="Spain",NICK JR (3)
-http://45.129.133.5:8008/a/willene/live/4114000364.ts
-#EXTINF:-1 tvg-id="NickJr.es" tvg-name="NICK JUNIOR (6)" tvg-logo="" group-title="Spain",NICK JUNIOR (6)
-http://185.53.88.67:8008/a/willene/live/1058751975.ts
-#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-name="NICKELODEON (6)" tvg-logo="https://vavoo.to/live2/logo/3642280714.png" group-title="Spain",NICKELODEON (6)
-http://89.36.94.102:8008/a/willene/live/3642280714.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICKELODEON HD (1)" tvg-logo="https://vavoo.to/live2/logo/47586275.jpeg" group-title="Spain",NICKELODEON HD (1)
-http://185.53.88.67:8008/a/willene/live/47586275.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICKELODEON HD (3)" tvg-logo="https://vavoo.to/live2/logo/1800917812.png" group-title="Spain",NICKELODEON HD (3)
-http://45.129.133.4:8008/a/willene/live/1800917812.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NONSTOP PEOPLE (3)" tvg-logo="" group-title="Spain",NONSTOP PEOPLE (3)
-http://185.53.88.67:8008/a/willene/live/1152264303.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOVA (1)" tvg-logo="" group-title="Spain",NOVA (1)
-http://185.53.88.67:8008/a/willene/live/299753906.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOVA (3)" tvg-logo="https://vavoo.to/live2/logo/192523646.png" group-title="Spain",NOVA (3)
-http://45.129.133.4:8008/a/willene/live/192523646.ts
-#EXTINF:-1 tvg-id="Nova.es" tvg-name="NOVA (6)" tvg-logo="" group-title="Spain",NOVA (6)
-http://185.53.88.85:8008/a/willene/live/1135248451.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PANDA (3)" tvg-logo="https://vavoo.to/live2/logo/2479512292.png" group-title="Spain",PANDA (3)
-http://185.53.88.85:8008/a/willene/live/2479512292.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PARAMOUNT (3)" tvg-logo="" group-title="Spain",PARAMOUNT (3)
-http://45.129.133.4:8008/a/willene/live/4155461076.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PARAMOUNT CHANNEL (1)" tvg-logo="https://vavoo.to/live2/logo/3653015927.jpeg" group-title="Spain",PARAMOUNT CHANNEL (1)
-http://185.53.88.67:8008/a/willene/live/3653015927.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REAL MADRID CHANNEL (3)" tvg-logo="https://vavoo.to/live2/logo/1700606719.png" group-title="Spain",REAL MADRID CHANNEL (3)
-http://45.129.133.4:8008/a/willene/live/1700606719.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REAL MADRID TV (1)" tvg-logo="https://vavoo.to/live2/logo/3429920471.png" group-title="Spain",REAL MADRID TV (1)
-http://185.53.88.67:8008/a/willene/live/3429920471.ts
-#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="REAL MADRID TV (6)" tvg-logo="" group-title="Spain",REAL MADRID TV (6)
-http://45.129.133.4:8008/a/willene/live/202134212.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REAL MADRID TV FHD (3)" tvg-logo="" group-title="Spain",REAL MADRID TV FHD (3)
-http://45.129.133.4:8008/a/willene/live/2899395881.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REAL MADRID TV HD (1)" tvg-logo="https://vavoo.to/live2/logo/713255575.jpeg" group-title="Spain",REAL MADRID TV HD (1)
-http://185.53.88.67:8008/a/willene/live/713255575.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SYFY (3)" tvg-logo="" group-title="Spain",SYFY (3)
-http://45.129.133.5:8008/a/willene/live/3146776232.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SYFY (6)" tvg-logo="" group-title="Spain",SYFY (6)
-http://45.129.133.5:8008/a/willene/live/4082947989.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SYFY FHD (3)" tvg-logo="https://vavoo.to/live2/logo/219308752.png" group-title="Spain",SYFY FHD (3)
-http://185.53.88.67:8008/a/willene/live/219308752.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SYFY HD (1)" tvg-logo="https://vavoo.to/live2/logo/1018112220.jpeg" group-title="Spain",SYFY HD (1)
-http://45.129.133.5:8008/a/willene/live/1018112220.ts
-#EXTINF:-1 tvg-id="TCM.es" tvg-name="TCM (6)" tvg-logo="https://vavoo.to/live2/logo/3147501563.png" group-title="Spain",TCM (6)
-http://45.129.133.5:8008/a/willene/live/3147501563.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TCM FHD (3)" tvg-logo="" group-title="Spain",TCM FHD (3)
-http://45.129.133.4:8008/a/willene/live/2701162723.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TCM HD (1)" tvg-logo="https://vavoo.to/live2/logo/1331840903.jpeg" group-title="Spain",TCM HD (1)
-http://185.53.88.67:8008/a/willene/live/1331840903.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TCM HD (3)" tvg-logo="https://vavoo.to/live2/logo/3480773331.png" group-title="Spain",TCM HD (3)
-http://89.36.94.102:8008/a/willene/live/3480773331.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE MADRID (1)" tvg-logo="" group-title="Spain",TELE MADRID (1)
-http://89.36.94.102:8008/a/willene/live/3174351363.ts
-#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="TELECINCO (6)" tvg-logo="https://vavoo.to/live2/logo/487257571.png" group-title="Spain",TELECINCO (6)
-http://89.36.94.102:8008/a/willene/live/487257571.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELECINCO FHD (3)" tvg-logo="" group-title="Spain",TELECINCO FHD (3)
-http://45.129.133.5:8008/a/willene/live/1441712654.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELECINCO HD (1)" tvg-logo="" group-title="Spain",TELECINCO HD (1)
-http://45.129.133.5:8008/a/willene/live/3317956052.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELECINCO HD (3)" tvg-logo="https://vavoo.to/live2/logo/4118798021.png" group-title="Spain",TELECINCO HD (3)
-http://45.129.133.5:8008/a/willene/live/4118798021.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TEN (1)" tvg-logo="https://vavoo.to/live2/logo/3837809377.jpeg" group-title="Spain",TEN (1)
-http://45.129.133.5:8008/a/willene/live/3837809377.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TEN (3)" tvg-logo="https://vavoo.to/live2/logo/1180754011.png" group-title="Spain",TEN (3)
-http://45.129.133.5:8008/a/willene/live/1180754011.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TEN (6)" tvg-logo="" group-title="Spain",TEN (6)
-http://45.129.133.5:8008/a/willene/live/711104054.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TEVE CAT (6)" tvg-logo="https://vavoo.to/live2/logo/1872651176.png" group-title="Spain",TEVE CAT (6)
-http://185.53.88.67:8008/a/willene/live/1872651176.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT (3)" tvg-logo="" group-title="Spain",TNT (3)
-http://185.53.88.85:8008/a/willene/live/116891579.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT FHD (3)" tvg-logo="https://vavoo.to/live2/logo/1419577209.png" group-title="Spain",TNT FHD (3)
-http://45.129.133.5:8008/a/willene/live/1419577209.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT HD (1)" tvg-logo="" group-title="Spain",TNT HD (1)
-http://45.129.133.4:8008/a/willene/live/3722021584.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRECE TV (6)" tvg-logo="" group-title="Spain",TRECE TV (6)
-http://185.53.88.67:8008/a/willene/live/1549715822.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV3 CATALUNIA (1)" tvg-logo="" group-title="Spain",TV3 CATALUNIA (1)
-http://89.36.94.102:8008/a/willene/live/945232165.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV3 CATALUNYA (6)" tvg-logo="" group-title="Spain",TV3 CATALUNYA (6)
-http://45.129.133.5:8008/a/willene/live/754230949.ts
-#EXTINF:-1 tvg-id="Vamos.es" tvg-name="VAMOS (6)" tvg-logo="https://vavoo.to/live2/logo/2185471044.png" group-title="Spain",VAMOS (6)
-http://45.129.133.5:8008/a/willene/live/2185471044.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VAMOS BAR 1 HD (1)" tvg-logo="" group-title="Spain",VAMOS BAR 1 HD (1)
-http://89.36.94.102:8008/a/willene/live/2715016106.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VAMOS BAR 2 HD (1)" tvg-logo="" group-title="Spain",VAMOS BAR 2 HD (1)
-http://45.129.133.4:8008/a/willene/live/794614857.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VAMOS FHD (3)" tvg-logo="https://vavoo.to/live2/logo/4190849935.png" group-title="Spain",VAMOS FHD (3)
-http://185.53.88.85:8008/a/willene/live/4190849935.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VAMOS HD (1)" tvg-logo="https://vavoo.to/live2/logo/1642822122.png" group-title="Spain",VAMOS HD (1)
-http://45.129.133.4:8008/a/willene/live/1642822122.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VAMOS HD (3)" tvg-logo="" group-title="Spain",VAMOS HD (3)
-http://185.53.88.85:8008/a/willene/live/1812406254.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIAJAR FHD (3)" tvg-logo="https://vavoo.to/live2/logo/104855297.png" group-title="Spain",VIAJAR FHD (3)
-http://45.129.133.5:8008/a/willene/live/104855297.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIAJAR HD (3)" tvg-logo="" group-title="Spain",VIAJAR HD (3)
-http://185.53.88.67:8008/a/willene/live/2547114295.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XTRM (6)" tvg-logo="" group-title="Spain",XTRM (6)
-http://89.36.94.102:8008/a/willene/live/3267812300.ts
+#EXTINF:-1 tvg-id="LA1(src01).es" tvg-name="La 1" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",La 1
+http://185.53.88.85:8008/a/willene/live/430938861.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="ANTENA3(src01).es" tvg-name="Antena 3" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",Antena 3
+http://185.53.88.85:8008/a/willene/live/408053148.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="Cuatro(src01).es" tvg-name="Cuatro" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",Cuatro
+http://45.129.133.4:8008/a/willene/live/2802174497.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="Telecinco(src01).es" tvg-name="Telecinco" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",Telecinco
+http://89.36.94.102:8008/a/willene/live/1441712654.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="LASEXTA(src01).es" tvg-name="La Sexta" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",La Sexta
+http://89.36.94.102:8008/a/willene/live/661598704.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Antena 3 CINE" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",Antena 3 CINE
+http://45.129.133.4:8008/a/willene/live/2758410022.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="MplusESTRENOS(src01).es" tvg-name="Estrenos" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",Estrenos
+http://45.129.133.4:8008/a/willene/live/1530605876.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="MplusACCION(src01).es" tvg-name="Accion" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",Accion
+http://185.53.88.85:8008/a/willene/live/3450126023.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="MplusCOMEDIA(src01).es" tvg-name="Comedia" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",Comedia
+http://45.129.133.4:8008/a/willene/live/2813972847.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="MplusDRAMA(src01).es" tvg-name="Drama" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",Drama
+http://89.36.94.102:8008/a/willene/live/530526559.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="HOLLYWOOD(src01).es" tvg-name="Hollywood" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",Hollywood
+http://89.36.94.102:8008/a/willene/live/3218350531.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="TNT(src01).es" tvg-name="TNT" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",TNT
+http://45.129.133.4:8008/a/willene/live/116891579.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="COSMO(src01).es" tvg-name="Cosmo" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",Cosmo
+http://89.36.94.102:8008/a/willene/live/4201514532.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="AXN(src01).es" tvg-name="AXN" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",AXN
+http://45.129.133.4:8008/a/willene/live/2556581552.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="AXNWHITE(src01).es" tvg-name="AXN White" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",AXN White
+http://89.36.94.102:8008/a/willene/live/1878529602.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="AMC(src01).es" tvg-name="AMC" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",AMC
+http://45.129.133.4:8008/a/willene/live/1403896971.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="Fox(src01).es" tvg-name="FOX" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",FOX
+http://45.129.133.4:8008/a/willene/live/1045233501.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Life" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",Fox Life
+http://89.36.94.102:8008/a/willene/live/3641295142.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="SYFY(src01).es" tvg-name="Syfy" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",Syfy
+http://89.36.94.102:8008/a/willene/live/219308752.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="CALLE13(src01).es" tvg-name="Calle 13" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",Calle 13
+http://185.53.88.85:8008/a/willene/live/3501318364.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="DISNEYCH(src01).es" tvg-name="Disney Channel" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",Disney Channel
+http://45.129.133.4:8008/a/willene/live/2192688520.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="Mplus0(src01).es" tvg-name="#0" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",#0
+http://89.36.94.102:8008/a/willene/live/1046609483.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="AMCBREAK(src01).es" tvg-name="AMC Break" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",AMC Break
+http://45.129.133.4:8008/a/willene/live/328666171.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A&E" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",A&E
+http://45.129.133.4:8008/a/willene/live/2318802903.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="MEGA(src01).es" tvg-name="Mega (Opción 2)" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",Mega (Opción 2)
+http://89.36.94.102:8008/a/willene/live/2715749840.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="Atreseries(src01).es" tvg-name="atreSeries" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",atreSeries
+http://45.129.133.4:8008/a/willene/live/2286339534.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Activa TV" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",Activa TV
+http://89.36.94.102:8008/a/willene/live/3356388393.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="BEMAD(src01).es" tvg-name="BeMad" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",BeMad
+http://185.53.88.85:8008/a/willene/live/434476100.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="AMC(src01).es" tvg-name="AMC (Opción 2)" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",AMC (Opción 2)
+http://89.36.94.102:8008/a/willene/live/1732580846.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="HOLLYWOOD(src01).es" tvg-name="Hollywood (Opción 2)" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",Hollywood (Opción 2)
+http://45.129.133.4:8008/a/willene/live/348726934.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="Mplus0(src01).es" tvg-name="0 (Opción 2)" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",0 (Opción 2)
+http://185.53.88.85:8008/a/willene/live/4070861500.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeinSport Ñ" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",BeinSport Ñ
+http://89.36.94.102:8008/a/willene/live/818585431.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeinSport Ñ (Opción 2)" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",BeinSport Ñ (Opción 2)
+http://185.53.88.85:8008/a/willene/live/1621677935.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="LaLigaTV.es" tvg-name="La Liga TV" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",La Liga TV
+http://45.129.133.4:8008/a/willene/live/2811938843.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="LaLigaTV.es" tvg-name="La Liga TV (Opción 2)" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",La Liga TV (Opción 2)
+http://89.36.94.102:8008/a/willene/live/734695029.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="DAZNLaLiga(src01).es" tvg-name="DAZN La Liga" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",DAZN La Liga
+http://185.53.88.85:8008/a/willene/live/3282756403.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="LaLigaTV.es" tvg-name="La Liga TV HD (Ingles)" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",La Liga TV HD (Ingles)
+http://45.129.133.4:8008/a/willene/live/3379554858.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="LaLigaTV.es" tvg-name="La Liga" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",La Liga
+http://185.53.88.85:8008/a/willene/live/4018127725.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="LaLigaTV.es" tvg-name="La Liga (Opción 2)" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",La Liga (Opción 2)
+http://185.53.88.85:8008/a/willene/live/2810319500.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA DE CAMPEONES 2 (3)" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",LIGA DE CAMPEONES 2 (3)
+http://89.36.94.102:8008/a/willene/live/3084788703.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LA LIGA (1)" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",MOVISTAR LA LIGA (1)
+http://45.129.133.4:8008/a/willene/live/2718243933.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LA LIGA (BACKUP) (1)" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",MOVISTAR LA LIGA (BACKUP) (1)
+http://185.53.88.85:8008/a/willene/live/3720690828.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LA LIGA 2 (1)" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",MOVISTAR LA LIGA 2 (1)
+http://185.53.88.85:8008/a/willene/live/487949724.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LA LIGA 3 (1)" tvg-logo="https://i.postimg.cc/mrRbRZdm/Movistar.png" group-title="Spain",MOVISTAR LA LIGA 3 (1)
+http://45.129.133.4:8008/a/willene/live/544582700.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
